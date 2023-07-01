@@ -1,0 +1,26 @@
+{
+  "name": "unsuccessful-attempt",
+  "version": "1.0.0",
+  "main": "src/main.tsx",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~48.0.18",
+    "expo-constants": "^14.2.1",
+    "expo-status-bar": "~1.4.4",
+    "popmotion": "^11.0.5",
+    "react": "18.2.0",
+    "react-native": "0.71.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "~18.0.27",
+    "@types/react-native": "^0.72.2",
+    "typescript": "^4.9.4"
+  },
+  "private": true
+}
